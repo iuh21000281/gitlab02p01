@@ -5,7 +5,7 @@
 # ID: 21000281
 # Author: Lê Thanh Nhàn
 # Additional Authors: MR. NAM
-# GitHub username: 
+# GitHub username: iuh21000281 
 # Input:
 # p, principal amount
 # t, time period in years
